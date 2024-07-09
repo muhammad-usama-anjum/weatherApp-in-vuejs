@@ -148,7 +148,6 @@ export default {
 </script>
 
 <style scoped>
-/* Scoped styles */
 .container {
   max-width: 800px;
   margin: 0 auto;
